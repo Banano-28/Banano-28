@@ -1,13 +1,13 @@
 <!-- Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Hola%2C+soy+Adrián+Alejandro+Hernández+✨;🚀+Estudiante+de+Ingeniería+en+Sistemas;🔐+Apasionado+por+la+Ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Hola%2C+soy+Adrián+Alejandro+Hernández+Díaz✨;🚀+Estudiante+de+Ingeniería+en+Sistemas;🔐+Me interesa+la+Ciberseguridad" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 Sobre mí  
-- 🎓 Estudio **Ingeniería en Sistemas** (2° semestre).  
-- 💡 Apasionado por **ciberseguridad, hacking ético y programación**.  
+- 🎓 Estudio **Ingeniería en Sistemas** (3° semestre).  
+- 💡 Apasionado por **ciberseguridad y programación**.  
 - 🐧 Uso **Kali Linux** para aprender y practicar.  
 - 🎮 Juego **Valorant** en mis ratos libres.  
 
@@ -29,9 +29,8 @@
 ---
 
 ### 📫 Cómo contactarme:
-- ✉️ **Correo:** ahoficial28@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🐙 [GitHub](https://github.com/TU-USUARIO)  
+- ✉️ **Correo:** ahoficial28@gmail.com   
+- 🐙 [GitHub](https://github.com/Banano-28)  
 
 ---
 
