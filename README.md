@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre mí  
 - 🎓 Estudio **Ingeniería en Sistemas** (° semestre).  
-- 💡 Apasionado por **ciberseguridad y programación**.  
+- 💡 Aprendiendo **ciberseguridad y programación**.  
 - 🐧 Uso **Kali Linux** para aprender y practicar.  
 - 🎮 Juego **Valorant** en mis ratos libres.  
 
