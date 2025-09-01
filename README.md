@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 Sobre mí  
-- 🎓 Estudio **Ingeniería en Sistemas** (2° semestre).  
-- 💡 Apasionado por **ciberseguridad, hacking ético y programación**.  
+- 🎓 Estudio **Ingeniería en Sistemas** (° semestre).  
+- 💡 Apasionado por **ciberseguridad y programación**.  
 - 🐧 Uso **Kali Linux** para aprender y practicar.  
-- 🎮 Juego **Valorant** en mis ratos libres.  
+- 🎮 Juego **Valorant** en mis ratos lib3res.  
 
 ---
 
@@ -20,13 +20,6 @@
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 📫 Cómo contactarme:
 - ✉️ **Correo:** ahoficial28@gmail.com  
