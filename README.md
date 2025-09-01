@@ -9,7 +9,7 @@
 - 🎓 Estudio **Ingeniería en Sistemas** (° semestre).  
 - 💡 Apasionado por **ciberseguridad y programación**.  
 - 🐧 Uso **Kali Linux** para aprender y practicar.  
-- 🎮 Juego **Valorant** en mis ratos lib3res.  
+- 🎮 Juego **Valorant** en mis ratos libres.  
 
 ---
 
@@ -22,9 +22,7 @@
 
 
 ### 📫 Cómo contactarme:
-- ✉️ **Correo:** ahoficial28@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🐙 [GitHub](https://github.com/TU-USUARIO)  
+- ✉️ **Correo:** ahoficial28@gmail.com
 
 ---
 
