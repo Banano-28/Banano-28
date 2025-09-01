@@ -1,6 +1,6 @@
 <!-- Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Hola%2C+soy+Adrián+Alejandro+Hernández+✨;🚀+Estudiante+de+Ingeniería+en+Sistemas;🔐+Apasionado+por+la+Ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=✨+Hola%2C+soy+Adrián+Alejandro+Hernández+✨;🚀+Estudiante+de+Ingeniería+en+Sistemas;🔐" alt="Typing SVG" />
 </h1>
 
 ---
